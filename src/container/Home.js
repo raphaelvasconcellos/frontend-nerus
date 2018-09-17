@@ -3,7 +3,7 @@ import HomeCard from '../ui/HomeCard';
 import {hashHistory} from 'react-router';
 export default class Home extends Component {
 
-    homeCardReleases = {
+    homeCardLojas = {
         title: 'Lojas',
         text: 'Gerenciar Lojas',
         action: () => hashHistory.push('/lojas')
