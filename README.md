@@ -2,7 +2,7 @@
 
 No diretório do projeto, você pode executar:
 
-###npm start
+npm start
 
 Executa o aplicativo no modo de desenvolvimento. <br>
 Abra [http: // localhost: 3000] (http: // localhost: 3000) para visualizá-lo no navegador.
@@ -10,12 +10,12 @@ Abra [http: // localhost: 3000] (http: // localhost: 3000) para visualizá-lo no
 A página será recarregada se você fizer edições. <br>
 Você também verá os erros no console.
 
-###npm test
+npm test
 
 Inicia o test runner no modo de relógio interativo. <br>
 Veja a seção sobre [testes em execução] (# running-tests) para mais informações.
 
-###npm run build
+npm run build
 
 Cria o aplicativo para produção na pasta `build`. <br>
 Ele agrupa corretamente o React no modo de produção e otimiza o build para obter o melhor desempenho.
@@ -27,8 +27,3 @@ Veja a seção sobre [deployment] (# deployment) para mais informações.
 
 
 
-
-
-#� �d�e�s�a�f�i�o�-�f�r�o�n�t�e�n�d�
-�
-�
